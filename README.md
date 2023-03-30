@@ -1,10 +1,12 @@
 # -
 数据结构第一次作业vector
-##vector.h
+## vector.h
 vector.h 包含了定义的成员函数并实现了成员函数
 没有对complex重载操作符,给vector的find函数，search函数，bubblesort函数，mergesort函数 添加了 函数作为新参数 的参数，参数具体实现在main.cpp 中
 
-##comlex.h 
+考虑了少部分 函数的鲁棒性，例如插入元素时考虑秩是否合理 
+
+## comlex.h 
 在homewok文件夹中，定义了基本的成员参数和 随机化函数，求模函数
 
 ##main.cpp
